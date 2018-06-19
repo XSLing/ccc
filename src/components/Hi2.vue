@@ -5,7 +5,7 @@
 </template>
 <script>
     export default{
-        name:'hi',
+        name:'hi2',
         data(){
             return{
                 msg:'Hi,I am HI2!'

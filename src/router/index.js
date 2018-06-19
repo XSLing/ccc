@@ -19,7 +19,8 @@ export default new Router({
       component:Hi,
       children:[
         {path:'/',component:Hi},
-        {path:'hi1',component:Hi2},
+        {path:'hi1',component:Hi1},
+        {path:'hi2',component:Hi2},
       ]
     }
   ]
