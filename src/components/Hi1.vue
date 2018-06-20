@@ -8,7 +8,7 @@
         name:'hi1',
         data(){
             return{
-                msg:'Hi,I am HI1!'
+                msg:'Hi,I am Hi1!'
             }
         }
     }
